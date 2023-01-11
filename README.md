@@ -40,6 +40,7 @@ Son capaces de aprender de forma jerarquizada. Están formadas por capas de neur
 También son conocidos como algoritmos de Deep Learning.
 
 ## Deep Learning
+Es una técnica de aprendizaje automático basada en el modelo de red neuronal: se apilan decenas o incluso cientos de capas de neuronas para aportar mayor complejidad al establecimiento de reglas.
 
 ## Big Data
 Es una trendencia de acumulación de datos que ha venido favorecida por el abaratamiento de los dispositivos de almacenamiento, la digitalización y una percepción a la hora de analizar los datos.
