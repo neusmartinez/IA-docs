@@ -1,4 +1,4 @@
-# Conceptos de Inteligencia Artificial
+# CONCEPTOS DE INTELIGENCIA ARTIFICIAL
 
 ## ¿Que es la Inteligencia Artificial?
 
