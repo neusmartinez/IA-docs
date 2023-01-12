@@ -9,6 +9,10 @@ Subdisciplina del campo de la Informática que busca la creación de máquinas q
 * Débil: Aquellos sistemas que solon pueden cumplir con un número muy limitado de tareas.
 * Fuerte: Aquellos sistemas que se pueden aplicar a una gran variedad de problemas y dominios diferentes.
 
+## IA Multimodal
+
+
+
 ## Campos de aplicación de la Inteligencia Artificial
 
 * Robótica
@@ -46,3 +50,5 @@ Es una técnica de aprendizaje automático basada en el modelo de red neuronal: 
 Es una trendencia de acumulación de datos que ha venido favorecida por el abaratamiento de los dispositivos de almacenamiento, la digitalización y una percepción a la hora de analizar los datos.
 
 También se puede referir al proceso de análisis de estos datos, desde su captura hasta su transformación en conocimiento.
+
+## Hitos tecnológicos
