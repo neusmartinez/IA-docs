@@ -1,5 +1,3 @@
-
-
 # CONCEPTOS DE INTELIGENCIA ARTIFICIAL
 
 ## ¿Que es la Inteligencia Artificial?
