@@ -29,7 +29,7 @@
   * Tipo de aprendizaje donde alimentamos al algoritmo con datos etiquetados durante el entrenamiento.El algoritmo aprenderá a clasificar nuevos datos. Por ejemplo: detectar spam.
 
 * Aprendizaje no supervisado
-  * Tipo de aprendizaje donde alimentamos al algoritmo con datos no etiquetados. El algoritmo aprenderá a encontrar patrones en los datos.Por ejemplo: encontrar clases de usuarios.
+  * Tipo de aprendizaje donde alimentamos al algoritmo con datos no etiquetados. El algoritmo aprenderá a encontrar patrones en los datos. Por ejemplo: encontrar clases de usuarios.
 
 * Aprendizaje reforzado
 
