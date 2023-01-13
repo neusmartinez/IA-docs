@@ -51,9 +51,9 @@ Es una trendencia de acumulación de datos que ha venido favorecida por el abara
 También se puede referir al proceso de análisis de estos datos, desde su captura hasta su transformación en conocimiento.
 
 ## Hitos tecnológicos
-*Alpha Go
-*AlphaStar
-*AlphaFold
-*AlphaCode
-*AlphaNash
-*Gato
+* Alpha Go
+* AlphaStar
+* AlphaFold
+* AlphaCode
+* AlphaNash
+* Gato
