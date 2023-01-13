@@ -1,3 +1,5 @@
+
+
 # CONCEPTOS DE INTELIGENCIA ARTIFICIAL
 
 ## ¿Que es la Inteligencia Artificial?
@@ -21,7 +23,7 @@
 
 ## Aprendizaje Automático (Machine Learning)
 
-###Rama del campo de la Inteligencia Artificial, que busca como dotar a las máquinas de capacidad de aprendizaje.
+* Rama del campo de la Inteligencia Artificial, que busca como dotar a las máquinas de capacidad de aprendizaje.
 
 ## Paradigmas de aprendizaje
 
