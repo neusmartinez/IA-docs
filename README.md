@@ -10,8 +10,7 @@ Subdisciplina del campo de la Informática que busca la creación de máquinas q
 * Fuerte: Aquellos sistemas que se pueden aplicar a una gran variedad de problemas y dominios diferentes.
 
 ## IA Multimodal
-
-
+Inteligencia Artificial que se caracteriza por procesar múltiples conjuntos de distintos tipos de datos utilizando métodos basados en el aprendizaje para proporcionar información más precisa, veraz e inteligente.
 
 ## Campos de aplicación de la Inteligencia Artificial
 
@@ -52,3 +51,9 @@ Es una trendencia de acumulación de datos que ha venido favorecida por el abara
 También se puede referir al proceso de análisis de estos datos, desde su captura hasta su transformación en conocimiento.
 
 ## Hitos tecnológicos
+*Alpha Go
+*AlphaStar
+*AlphaFold
+*AlphaCode
+*AlphaNash
+*Gato
