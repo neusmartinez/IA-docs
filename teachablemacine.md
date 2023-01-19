@@ -17,7 +17,7 @@ Vamos a añadir 3 clases:
 
 ## Test 1
 Probamos con una fotografía de vidrio y nos da una clasificaión de contenedor erronea (azul y amarillo).
-
+https://github.com/neusmartinez/IA-docs/blob/main/Primer%20intento.png
 
 Debemos reentrenar el modelo para que aprenda mejor la diferencia entre los materiales, y no se centre en las formas.
 
