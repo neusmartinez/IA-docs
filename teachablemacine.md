@@ -15,8 +15,18 @@ Vamos a añadir 3 clases:
 
 3. Evaluación del modelo y conclusiones.
 
-## Iteración 2
+## Test 1
+Probamos con una fotografía de vidrio y nos da una clasificaión de contenedor erronea (azul y amarillo).
 
-Mejora de los datos de entrenamiento (opción 1)
-Mejora de los parámetros de entremiento (opcion 2)
-Evaluación del modelo y conclusiones
+
+Debemos reentrenar el modelo para que aprenda mejor la diferencia entre los materiales, y no se centre en las formas.
+
+## Test 2
+Probamos con un rollo de papel y nos da una clasificación de contenedor errónea (amarillo).
+
+
+
+## Iteración 2
+Mejora de los datos de entrenamiento (opción 1).
+Mejora de los parámetros de entremiento (opcion 2).
+Evaluación del modelo y conclusiones.
