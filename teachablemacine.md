@@ -15,9 +15,8 @@ Vamos a añadir 3 clases:
 
 3. Evaluación del modelo y conclusiones.
 
+## Iteración 2
 
-Iteración 2
-
-    Mejora de los datos de entrenamiento (opción 1)
-    Mejora de los parámetros de entremiento (opcion 2)
-    Evaluación del modelo y conclusiones
+Mejora de los datos de entrenamiento (opción 1)
+Mejora de los parámetros de entremiento (opcion 2)
+Evaluación del modelo y conclusiones
