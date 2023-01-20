@@ -21,7 +21,7 @@ Probamos con una fotografía de una botella de spray con pulverizador y nos da u
 ![](https://github.com/neusmartinez/IA-docs/blob/main/Problema%201.png)
 
 Como solución, hacemos cogemos una botella con un elemento común: el pulverizador. Y por suerte, aunque el spray de prueba sea de otro color, lo ha podido reconocer como plástico. Aún así,se debe reentrenar el modelo para que aprenda mejor la diferencia entre los materiales, y no se centre en las formas.
-![](https://github.com/neusmartinez/IA-docs/blob/main/Soluci%C3%B3n%201.png.
+![](https://github.com/neusmartinez/IA-docs/blob/main/Soluci%C3%B3n%201.png.)
 
 
 ## Test 2
