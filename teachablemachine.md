@@ -26,7 +26,7 @@ Como solución, hacemos cogemos una botella con un elemento común: el pulveriza
 
 ## Test 2
 Probamos con un rollo de papel y nos da una clasificación de contenedor errónea (amarillo).
-
+![](https://github.com/neusmartinez/IA-docs/blob/main/Problema%202.png)
 
 
 ## Iteración 2
