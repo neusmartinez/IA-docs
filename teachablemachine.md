@@ -20,7 +20,7 @@ Probamos con una fotografía de vidrio y nos da una clasificaión de contenedor 
 ![](https://github.com/neusmartinez/IA-docs/blob/main/Problema%201.png)
 
 Debemos reentrenar el modelo para que aprenda mejor la diferencia entre los materiales, y no se centre en las formas.
-
+![](https://github.com/neusmartinez/IA-docs/blob/main/Soluci%C3%B3n%201.png)
 ## Test 2
 Probamos con un rollo de papel y nos da una clasificación de contenedor errónea (amarillo).
 
