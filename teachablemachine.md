@@ -1,12 +1,11 @@
-# Introducción al problema
+# INTRODUCCIÓN AL EJERCICIO
 
 Vamos a entrenar un modelo de Teachable Mchine para que sea capaz de identificar a que contenedor tenemos que tirar un residuo.
 
-## Iteración 1
+## PASOS A SEGUIR
 
 1. Elección de clases y datos de entrenamiento.
-
-Vamos a añadir 3 clases:
+Vamos a añadir 3 clases de contenedores:
  * Contenedor amarillo
  * Contenedor verde.
  * Contenedor azul.
@@ -14,7 +13,7 @@ Vamos a añadir 3 clases:
 2. Entrenamiento del modelo.
 Vamos a añadir 5 imágenes de residuos que se deben tirar a cada uno de los contenedores.
 
-3. Evaluación del modelo y conclusiones.
+3. Evaluación del modelo y conclusiones despues de hacer tests propios (problemas y soluciones).
 
 ## Test 1
 INTRODUCCIÓN AL PROBLEMA: Probamos con una fotografía de una botella de spray con pulverizador y nos da una clasificaión de contenedor erronea (verde).
@@ -30,3 +29,5 @@ INTRODUCCIÓN AL PROBLEMA:Probamos con un rollo de papel y nos da una clasificac
 
 SOLUCIÓN:Como solución, ponemos rollos parecidos para que detecte la misma forma, pero de otros colores para que no solo se base en el color.
 ![](https://github.com/neusmartinez/IA-docs/blob/main/Soluci%C3%B3n%202.png)
+
+4. Evaluación del modelo y conclusiones despues de hacer de imágenes de Aules (problemas y soluciones).
