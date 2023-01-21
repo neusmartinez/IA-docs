@@ -18,6 +18,8 @@ Vamos a añadir 5 imágenes de residuos que se deben tirar a cada uno de los con
 ## SIN PROBLEMAS:
 * Botella de vidrio marrón.
 
+![](https://github.com/neusmartinez/IA-docs/blob/main/BOTELLA%20VIDRIO%20MARRO%CC%81N.png)
+
 * Bote de cristal.
 
 * Botella de vidrio verde.
