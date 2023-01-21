@@ -47,7 +47,7 @@ Vamos a añadir 5 imágenes de residuos que se deben tirar a cada uno de los con
 
 * Tubo de cartón:
 
-![](https://github.com/neusmartinez/IA-docs/blob/main/TAPO%CC%81N%20DE%20CORCHO.png)
+![](https://github.com/neusmartinez/IA-docs/blob/main/ROLLO%20DE%20CARTO%CC%81N.png)
 
 * Periódicos: 
 
