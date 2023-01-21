@@ -27,6 +27,7 @@ Vamos a añadir 5 imágenes de residuos que se deben tirar a cada uno de los con
 ![](https://github.com/neusmartinez/IA-docs/blob/main/RESTOS%201.png)
 
 * Restos de comida 2.
+
 ![](https://github.com/neusmartinez/IA-docs/blob/main/RESTOS%202.png)
 
 4. Evaluación del modelo y conclusiones despues de hacer de imágenes de Aules (problemas y soluciones).
