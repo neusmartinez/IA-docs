@@ -81,6 +81,10 @@ Vamos a añadir 5 imágenes de residuos que se deben tirar a cada uno de los con
 ## SOLUCIONES A LOS PROBLEMAS:
 * Huevera:
 
+![](https://github.com/neusmartinez/IA-docs/blob/main/SOLUCIO%CC%81N%20HUEVERA.png)
+
 * Bola de aluminio:
 
-![](https://github.com/neusmartinez/IA-docs/blob/main/SOLUCIO%CC%81N%20HUEVERA.png)
+
+
+
