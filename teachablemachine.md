@@ -79,12 +79,10 @@ Vamos a añadir 5 imágenes de residuos que se deben tirar a cada uno de los con
 ![](https://github.com/neusmartinez/IA-docs/blob/main/PROBLEMA%20BOLA%20ALUMINIO.png)
 
 ## SOLUCIONES A LOS PROBLEMAS:
-* Huevera:
+* Huevera: Añado imagenes de conjuntos de hueveras aunque de diferente color. Ya lo reconoce como cartón
 
 ![](https://github.com/neusmartinez/IA-docs/blob/main/SOLUCIO%CC%81N%20HUEVERA.png)
 
 * Bola de aluminio:
 
-
-
-
+![](https://github.com/neusmartinez/IA-docs/blob/main/SOLUCIO%CC%81N%20BOLA%20ALUMINIO.png)
