@@ -1,17 +1,17 @@
 # INTRODUCCIÓN AL EJERCICIO
 
-Vamos a entrenar un modelo de Teachable Mchine para que sea capaz de identificar a que contenedor tenemos que tirar un residuo.
+Voy a entrenar un modelo de Teachable Mchine para que sea capaz de identificar a que contenedor tenemos que tirar un residuo.
 
 ## PASOS A SEGUIR
 
 1. Elección de clases y datos de entrenamiento.
-Vamos a añadir 3 clases de contenedores:
+Voy a añadir 3 clases de contenedores:
  * Contenedor amarillo
  * Contenedor verde.
  * Contenedor azul.
  
 2. Entrenamiento del modelo.
-Vamos a añadir 5 imágenes de residuos que se deben tirar a cada uno de los contenedores.
+Voy a añadir 5 imágenes de residuos que se deben tirar a cada uno de los contenedores.
 
 3. Evaluación del modelo y conclusiones despues de hacer tests propios (problemas y soluciones).
 
