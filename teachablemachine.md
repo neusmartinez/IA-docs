@@ -77,4 +77,4 @@ Vamos a añadir 5 imágenes de residuos que se deben tirar a cada uno de los con
 ## SOLUCIONES A LOS PROBLEMAS:
 * Huevere:
 
-* Bola de diamante:
+* Bola de aluminio:
