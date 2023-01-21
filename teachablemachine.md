@@ -76,7 +76,9 @@ Vamos a añadir 5 imágenes de residuos que se deben tirar a cada uno de los con
 
 * Bola de aluminio:
 
+![](https://github.com/neusmartinez/IA-docs/blob/main/PROBLEMA%20BOLA%20ALUMINIO.png)
+
 ## SOLUCIONES A LOS PROBLEMAS:
-* Huevere:
+* Huevera:
 
 * Bola de aluminio:
