@@ -22,7 +22,10 @@ Vamos a añadir 5 imágenes de residuos que se deben tirar a cada uno de los con
 
 * Bote de cristal.
 
+![](https://github.com/neusmartinez/IA-docs/blob/main/BOTE%20DE%20CRISTAL.png)
+
 * Botella de vidrio verde.
+
 
 * Restos de comida 1.
 
