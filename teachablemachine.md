@@ -23,7 +23,7 @@ Vamos a añadir 5 imágenes de residuos que se deben tirar a cada uno de los con
 * Botella de vidrio verde.
 
 * Restos de comida 1.
-
+! [](https://github.com/neusmartinez/IA-docs/blob/main/RESTOS%201.png)
 * Restos de comida 2.
 
 
