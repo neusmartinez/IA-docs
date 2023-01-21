@@ -39,6 +39,9 @@ Vamos a añadir 5 imágenes de residuos que se deben tirar a cada uno de los con
 * Pañal.
 
 
+
 * Tapón de corcho.
+
+![](https://github.com/neusmartinez/IA-docs/blob/main/TAPO%CC%81N%20DE%20CORCHO.png)
 
 4. Evaluación del modelo y conclusiones despues de hacer de imágenes de Aules (problemas y soluciones).
