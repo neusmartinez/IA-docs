@@ -74,15 +74,17 @@ Vamos a añadir 5 imágenes de residuos que se deben tirar a cada uno de los con
 
 ![](https://github.com/neusmartinez/IA-docs/blob/main/PROBLEMA%20HUEVERA.png)
 
-* Bola de aluminio:
+* Bola de aluminio: Lo reconoce como un residuo que se debe tirar en el contenedor marrón (erróneo).
 
 ![](https://github.com/neusmartinez/IA-docs/blob/main/PROBLEMA%20BOLA%20ALUMINIO.png)
 
 ## SOLUCIONES A LOS PROBLEMAS:
-* Huevera: Añado imagenes de conjuntos de hueveras aunque de diferente color. Ya lo reconoce como un residuo que se debe depositar en el contenedor azul y no el contenedor gris.
+* Huevera: Añado imagenes de conjuntos de hueveras aunque de diferente color. Tras esto, ya lo reconoce como un residuo que se debe depositar en el contenedor azul y no el contenedor gris.
 
 ![](https://github.com/neusmartinez/IA-docs/blob/main/SOLUCIO%CC%81N%20HUEVERA.png)
 
-* Bola de aluminio:
+* Bola de aluminio: Añado imágenes de aluminio para que reconozca el color. Tras esto, ya lo reconoce como un residuo que se debe depositar en el contenedor amarillo y no en el contenedor marrón.
 
 ![](https://github.com/neusmartinez/IA-docs/blob/main/SOLUCIO%CC%81N%20BOLA%20ALUMINIO.png)
+
+4. Realizo una ultima comprobación de todos los residuos y sale todo correcto, cada residuo en su correspondiente contenedor.
