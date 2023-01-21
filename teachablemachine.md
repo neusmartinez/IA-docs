@@ -61,5 +61,12 @@ Vamos a añadir 5 imágenes de residuos que se deben tirar a cada uno de los con
 
 ![](https://github.com/neusmartinez/IA-docs/blob/main/LATA%20%20COCACOLA.png)
 
+* Lata normal:
+
+![](https://github.com/neusmartinez/IA-docs/blob/main/LATA%20NORMAL.png)
+
+* Bote de plástico con dosificador:
+
+
 
 4. Evaluación del modelo y conclusiones despues de hacer de imágenes de Aules (problemas y soluciones).
