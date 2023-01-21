@@ -70,7 +70,7 @@ Vamos a añadir 5 imágenes de residuos que se deben tirar a cada uno de los con
 ![](https://github.com/neusmartinez/IA-docs/blob/main/CHUFCHUF.png)
 
 ## PROBLEMAS:
-* Huevera:
+* Huevera: Lo reconoce como un residuo que se debe tirar en el contenedor gris (erróneo).
 
 ![](https://github.com/neusmartinez/IA-docs/blob/main/PROBLEMA%20HUEVERA.png)
 
@@ -79,7 +79,7 @@ Vamos a añadir 5 imágenes de residuos que se deben tirar a cada uno de los con
 ![](https://github.com/neusmartinez/IA-docs/blob/main/PROBLEMA%20BOLA%20ALUMINIO.png)
 
 ## SOLUCIONES A LOS PROBLEMAS:
-* Huevera: Añado imagenes de conjuntos de hueveras aunque de diferente color. Ya lo reconoce como cartón
+* Huevera: Añado imagenes de conjuntos de hueveras aunque de diferente color. Ya lo reconoce como un residuo que se debe depositar en el contenedor azul y no el contenedor gris.
 
 ![](https://github.com/neusmartinez/IA-docs/blob/main/SOLUCIO%CC%81N%20HUEVERA.png)
 
