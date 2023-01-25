@@ -104,6 +104,3 @@ En esta série de imágenes no ha habido ningún problema:
 | juguete_plastico.jpg    | Gris           | Gris                 | 96 %       |
 | tarro_conserva.jpg      | Verde          | Verde                | 67 %       |
 | tarro_mermelada.jpg     | Verde          | Verde                | 92 %       |
-
-
-
