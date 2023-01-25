@@ -15,7 +15,9 @@ Voy a añadir 5 imágenes de residuos que se deben tirar a cada uno de los conte
 
 3. Evaluación del modelo y conclusiones despues de hacer tests propios (problemas y soluciones).
 
-## SIN PROBLEMAS:
+4. Realizo una ultima comprobación de todos los residuos y sale todo correcto, cada residuo en su correspondiente contenedor.
+
+## IMÁGENES DE TEST 1 SIN PROBLEMAS:
 * Botella de vidrio marrón:
 
 ![](https://github.com/neusmartinez/IA-docs/blob/main/BOTELLA%20VIDRIO%20MARRO%CC%81N.png)
@@ -69,7 +71,7 @@ Voy a añadir 5 imágenes de residuos que se deben tirar a cada uno de los conte
 
 ![](https://github.com/neusmartinez/IA-docs/blob/main/CHUFCHUF.png)
 
-## PROBLEMAS:
+## PROBLEMAS DE LAS IMÁGENES TEST 1
 * Huevera: Lo reconoce como un residuo que se debe tirar en el contenedor gris (erróneo).
 
 ![](https://github.com/neusmartinez/IA-docs/blob/main/PROBLEMA%20HUEVERA.png)
@@ -78,7 +80,7 @@ Voy a añadir 5 imágenes de residuos que se deben tirar a cada uno de los conte
 
 ![](https://github.com/neusmartinez/IA-docs/blob/main/PROBLEMA%20BOLA%20ALUMINIO.png)
 
-## SOLUCIONES A LOS PROBLEMAS:
+## SOLUCIONES A LOS PROBLEMAS DE LAS IMÁGENES TEST 1
 * Huevera: Añado imagenes de conjuntos de hueveras aunque de diferente color. Tras esto, ya lo reconoce como un residuo que se debe depositar en el contenedor azul y no el contenedor gris.
 
 ![](https://github.com/neusmartinez/IA-docs/blob/main/SOLUCIO%CC%81N%20HUEVERA.png)
@@ -87,4 +89,21 @@ Voy a añadir 5 imágenes de residuos que se deben tirar a cada uno de los conte
 
 ![](https://github.com/neusmartinez/IA-docs/blob/main/SOLUCIO%CC%81N%20BOLA%20ALUMINIO.png)
 
-4. Realizo una ultima comprobación de todos los residuos y sale todo correcto, cada residuo en su correspondiente contenedor.
+
+## DATOS DE IMÁGENES TEST 2
+En esta série de imágenes no ha habido ningún problema:
+
+| Imagen                  | Categoría Real | Categoría del modelo | Porcentaje |
+|-------------------------|----------------|----------------------|------------|
+| bandeja_aluminio.jpeg   | Amarillo       | Amarillo             | 99 %       |
+| tubo_pasta_dientes.jpeg | Amarillo       | Amarillo             | 62 %       |
+| envase_papel.png        | Azul           | Azul                 | 99 %       |
+| papel_envolver.jpg      | Azul           | Azul                 | 76 %       |
+| cazo_cocina.jpg         | Gris           | Gris                 | 55 %       |
+| colilla.jpg             | Gris           | Gris                 | 81 %       |
+| juguete_plastico.jpg    | Gris           | Gris                 | 96 %       |
+| tarro_conserva.jpg      | Verde          | Verde                | 67 %       |
+| tarro_mermelada.jpg     | Verde          | Verde                | 92 %       |
+
+
+
