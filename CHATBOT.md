@@ -1,6 +1,6 @@
 # CHATBOTS
 ## ¿Que es un Chat Bot?
- ### Un chatbot es un programa informático que simula una conversación humana. Los chatbots están diseñados para entablar automáticamente conversaciones con humanos.
+ **Un chatbot es un programa informático que simula una conversación humana. Los chatbots están diseñados para entablar automáticamente conversaciones con humanos.
 
 
 ## Tecnología detrás de los ChatBots
