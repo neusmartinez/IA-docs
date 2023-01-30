@@ -1,29 +1,28 @@
 # CHATBOTS
 ## ¿Que es un Chat Bot?
-Un chatbot es un programa informático que simula una conversación humana. Los chatbots están diseñados para entablar automáticamente conversaciones con humanos, normalmente con el fin de proporcionar servicio o asistencia al cliente.
+Un chatbot es un programa informático que simula una conversación humana. Los chatbots están diseñados para entablar automáticamente conversaciones con humanos.
 
 
 ## Tecnología detrás de los ChatBots
-Los chatbots utilizan inteligencia artificial para interpretar las palabras o frases del usuario, y responden en consecuencia.La mayoría de los chatbots se basan en el aprendizaje automático, que les permite ser más inteligentes con el tiempo. A medida que más personas utilicen un chatbot, éste aprenderá nuevas palabras y frases, y será más capaz de entender las necesidades del usuario.
+Los chatbots utilizan inteligencia artificial para interpretar las palabras o frases del usuario, y responden en consecuencia.La mayoría de los chatbots se basan en el aprendizaje automático, que les permite ser más inteligentes con el tiempo.
 
 
 ## Tipos de ChatBot
-* Los chatbots basados en reglas: siguen un conjunto de reglas programadas por un humano. Estos chatbots pueden entender las entradas del usuario, pero sólo pueden responder de forma limitada. Los chatbots basados en reglas suelen limitarse a pequeñas tareas.
+* Los chatbots basados en reglas: siguen un conjunto de reglas programadas por un humano. Estos chatbots pueden entender las entradas del usuario, pero sólo pueden responder de forma limitada.
 
-* Los chatbots de aprendizaje automático: funcionan con inteligencia artificial. Estos chatbots utilizan algoritmos de aprendizaje automático para aprender de los datos, y se vuelven más inteligentes con el tiempo. Los chatbots de aprendizaje automático pueden comprender entradas de usuario más complejas y ofrecer respuestas más precisas.
+* Los chatbots de aprendizaje automático: funcionan con inteligencia artificial. Estos chatbots utilizan algoritmos de aprendizaje automático para aprender de los datos, y se vuelven más inteligentes con el tiempo.
 
 
 ## Ventajas de utilizar un ChatBot
-Los chatbots son una herramienta poderosa cuando se trata de atención al cliente ya que proporcionan mayor eficiencia, mayor precisión, disponibilidad 24 horas al día, 7 días a la semana, ahorro de costes y mayor satisfacción del cliente. Con los chatbots dotados de IA, las empresas pueden ofrecer un mejor servicio al cliente al tiempo que reducen costes.
+Los chatbots son una herramienta poderosa cuando se trata de atención al cliente ya que proporcionan mayor eficiencia, mayor precisión, disponibilidad 24 horas al día, 7 días a la semana, ahorro de costes y mayor satisfacción del cliente. 
 
 
 ## Desventajas de utilizar un ChatBot
-Una desventaja de los chatbots es que pueden ser difíciles de entender. Los chatbots suelen utilizar un lenguaje coloquial, lo que puede dificultar su comprensión por parte de algunos usuarios. Otra desventaja de los chatbots es que pueden heredar los errores de los datos con los que han sido entrenados.
+Las desventajas de los chatbots es que pueden ser difíciles de entender ya que suelen utilizar un lenguaje coloquial y pueden heredar los errores de los datos con los que han sido entrenados.
 
 
 ## ¿Cómo funcionan los ChatBots?
-Los chatbots utilizan el procesamiento del lenguaje natural (PLN) para entender las entradas del usuario. El PLN es un tipo de inteligencia artificial que permite a los ordenadores entender el lenguaje humano.La respuesta del chatbot puede estar preprogramada o codificada, o puede generarse mediante aprendizaje automático. Si el chatbot utiliza el aprendizaje automático, aprenderá de cada interacción y mejorará su comprensión del usuario con el tiempo.
-
+Los chatbots utilizan el procesamiento del lenguaje natural (PLN) para entender las entradas del usuario. El PLN es un tipo de inteligencia artificial que permite a los ordenadores entender el lenguaje humano.La respuesta del chatbot puede estar preprogramada o o puede generarse mediante aprendizaje automático.
 El procesamiento del lenguaje natural en los chatbots puede clasificarse en diferentes categorías:
 
 * Clasificación de texto: Se trata de categorizar los textos en función de su contenido.
