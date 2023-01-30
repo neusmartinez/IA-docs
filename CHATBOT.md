@@ -1,10 +1,10 @@
 # CHATBOTS
 ## ¿Que es un Chat Bot?
-Un chatbot es un programa informático que simula una conversación humana. Los chatbots están diseñados para entablar automáticamente conversaciones con humanos.
+ ### Un chatbot es un programa informático que simula una conversación humana. Los chatbots están diseñados para entablar automáticamente conversaciones con humanos.
 
 
 ## Tecnología detrás de los ChatBots
-Los chatbots utilizan inteligencia artificial para interpretar las palabras o frases del usuario, y responden en consecuencia.La mayoría de los chatbots se basan en el aprendizaje automático, que les permite ser más inteligentes con el tiempo.
+### Los chatbots utilizan inteligencia artificial para interpretar las palabras o frases del usuario, y responden en consecuencia.La mayoría de los chatbots se basan en el aprendizaje automático, que les permite ser más inteligentes con el tiempo.
 
 
 ## Tipos de ChatBot
@@ -14,11 +14,11 @@ Los chatbots utilizan inteligencia artificial para interpretar las palabras o fr
 
 
 ## Ventajas de utilizar un ChatBot
-Los chatbots son una herramienta poderosa cuando se trata de atención al cliente ya que proporcionan mayor eficiencia, mayor precisión, disponibilidad 24 horas al día, 7 días a la semana, ahorro de costes y mayor satisfacción del cliente. 
+### Mayor eficiencia, mayor precisión, disponibilidad 24 horas al día, 7 días a la semana, ahorro de costes y mayor satisfacción del cliente. 
 
 
 ## Desventajas de utilizar un ChatBot
-Las desventajas de los chatbots es que pueden ser difíciles de entender ya que suelen utilizar un lenguaje coloquial y pueden heredar los errores de los datos con los que han sido entrenados.
+### Pueden ser difíciles de entender ya que suelen utilizar un lenguaje coloquial y pueden heredar los errores de los datos con los que han sido entrenados.
 
 
 ## ¿Cómo funcionan los ChatBots?
@@ -42,5 +42,3 @@ El procesamiento del lenguaje natural en los chatbots puede clasificarse en dife
 * Intent Recognition: Tipo de inteligencia artificial que permite a los chatbots comprender la intención del usuario. El reconocimiento de intenciones se utiliza para asignar la entrada del usuario a la respuesta adecuada. 
 
 * Entity Recognition: Tipo de inteligencia artificial que permite a los chatbots identificar información relevante en la entrada del usuario.El reconocimiento de entidades ayuda a los chatbots a entender lo que quiere el usuario identificando palabras clave y frases en sus entradas.
-
-La principal diferencia entre el Intent Recognition y el Entity Recognition es que el primero busca palabras clave y frases en la información introducida por el usuario, mientras que el segundo se utiliza para asignar la información introducida por el usuario a una respuesta adecuada.
